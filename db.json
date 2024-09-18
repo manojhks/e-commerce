@@ -1,0 +1,434 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "hashedPassword",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Red Dress",
+      "description": "A stylish red dress perfect for any occasion.",
+      "price": 50,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/51aT8aA2BLL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Men's Blue Denim Jeans",
+      "description": "Classic blue denim jeans with a comfortable fit.",
+      "price": 40,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/81WzIbilc9L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Kids' T-Shirt",
+      "description": "Cotton T-shirt for kids with a fun print.",
+      "price": 15,
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/71R5w7gR5LL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Women's Black Handbag",
+      "description": "A versatile black handbag for daily use.",
+      "price": 75,
+      "sizes": [
+        "N/A"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/71TgqwgqzsL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Men's Leather Jacket",
+      "description": "Premium quality leather jacket with a classic design.",
+      "price": 120,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/61pCn6DowvS._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Kids' Raincoat",
+      "description": "Waterproof raincoat for kids with a hood.",
+      "price": 30,
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/41f8N5y1bkL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Women's Yoga Pants",
+      "description": "Comfortable yoga pants for workouts.",
+      "price": 25,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/61Zmvr+c-GL._SX425_.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Men's Running Shoes",
+      "description": "Lightweight and breathable running shoes.",
+      "price": 60,
+      "sizes": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/71E9djcGaaL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Girls' Floral Dress",
+      "description": "A cute floral dress for little girls.",
+      "price": 20,
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/71m1RicH-AL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Women's Sun Hat",
+      "description": "A stylish sun hat for sunny days.",
+      "price": 18,
+      "sizes": [
+        "N/A"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/81SYQHLtOcL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Men's Casual Shirt",
+      "description": "A comfortable casual shirt in various colors.",
+      "price": 35,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/61v2ugDrCqL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Kids' Sneakers",
+      "description": "Comfortable sneakers for kids' daily activities.",
+      "price": 25,
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/71hA9CLUQ9L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Women's Winter Coat",
+      "description": "Warm winter coat with faux fur lining.",
+      "price": 100,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/41iMmvpxBZL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Men's Formal Shoes",
+      "description": "Elegant formal shoes for business or events.",
+      "price": 85,
+      "sizes": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/61DI20dQOAL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Boys' Cargo Shorts",
+      "description": "Durable cargo shorts for boys.",
+      "price": 20,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/3139vvZ6qvL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Women's Evening Gown",
+      "description": "Elegant evening gown for special occasions.",
+      "price": 150,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/51F8qaDJTbL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Men's Polo Shirt",
+      "description": "Classic polo shirt available in multiple colors.",
+      "price": 30,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/71Jukhvw8DL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Girls' Ballet Flats",
+      "description": "Comfortable ballet flats for girls.",
+      "price": 22,
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/61U9l8+S3KL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Women's High Heels",
+      "description": "Chic high heels for a glamorous look.",
+      "price": 55,
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/61U9kd3OCxL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Men's Gym Shorts",
+      "description": "Lightweight shorts for gym or sports.",
+      "price": 20,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/51WHQvSNLFL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Kids' Winter Boots",
+      "description": "Warm and sturdy boots for kids during winter.",
+      "price": 35,
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/61LL-8KcciL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Women's Leather Handbag",
+      "description": "A classy leather handbag for daily use.",
+      "price": 90,
+      "sizes": [
+        "N/A"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/61Fa7wW9FvL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Men's Hoodie",
+      "description": "Comfortable hoodie for casual wear.",
+      "price": 45,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/41TMdYQWskL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Girls' Denim Jacket",
+      "description": "Trendy denim jacket for girls.",
+      "price": 30,
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/81YehS74pOL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Women's Sports Bra",
+      "description": "Supportive sports bra for workouts.",
+      "price": 25,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/41Ydap90j-L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "26",
+      "name": "Men's Leather Belt",
+      "description": "Durable leather belt for men.",
+      "price": 35,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/71nDquwK66L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Kids' Pajamas Set",
+      "description": "Comfortable pajamas set for kids.",
+      "price": 18,
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/61RhaRFu5yL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Women's Denim Skirt",
+      "description": "Stylish denim skirt for casual wear.",
+      "price": 40,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/61X3yHb2txL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "29",
+      "name": "Men's Beanie",
+      "description": "Warm beanie for chilly weather.",
+      "price": 15,
+      "sizes": [
+        "N/A"
+      ],
+      "category": "Men",
+      "image": "https://c.media-amazon.com/images/I/51p3el5Dq7L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "30",
+      "name": "Kids' Backpack",
+      "description": "Durable backpack for kids with fun prints.",
+      "price": 25,
+      "sizes": [
+        "N/A"
+      ],
+      "category": "Child",
+      "image": "https://c.media-amazon.com/images/I/71QHCaQXCML._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ],
+  "carts": [
+    {
+      "id": "4",
+      "name": "Women's Black Handbag",
+      "description": "A versatile black handbag for daily use.",
+      "price": 75,
+      "sizes": [
+        "N/A"
+      ],
+      "category": "Women",
+      "image": "https://c.media-amazon.com/images/I/71TgqwgqzsL._AC_UL480_FMwebp_QL65_.jpg",
+      "size": "N/A",
+      "quantity": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": 1,
+      "items": [
+        {
+          "productId": 1,
+          "size": "M",
+          "quantity": 2
+        }
+      ],
+      "status": "Processing",
+      "totalPrice": 100
+    }
+  ]
+}
