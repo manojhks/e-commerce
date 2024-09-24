@@ -35,7 +35,7 @@
         "XXL"
       ],
       "category": "Men",
-      "image": "https://c.media-amazon.com/images/I/81WzIbilc9L._AC_UL480_FMwebp_QL65_.jpg"
+      "image": "https://m.media-amazon.com/images/I/612FlO8UvaL._AC_UL480_FMwebp_QL65_.jpg"
     },
     {
       "id": "3",
@@ -328,8 +328,8 @@
     },
     {
       "id": "25",
-      "name": "Women's Sports Bra",
-      "description": "Supportive sports bra for workouts.",
+      "name": "Women's shirt",
+      "description": "Classy looking shirts for women.",
       "price": 25,
       "sizes": [
         "S",
@@ -337,7 +337,7 @@
         "L"
       ],
       "category": "Women",
-      "image": "https://c.media-amazon.com/images/I/41Ydap90j-L._AC_UL480_FMwebp_QL65_.jpg"
+      "image": "https://m.media-amazon.com/images/I/51rnLXmKuvL._AC_UL480_FMwebp_QL65_.jpg"
     },
     {
       "id": "26",
@@ -376,7 +376,7 @@
         "L"
       ],
       "category": "Women",
-      "image": "https://c.media-amazon.com/images/I/61X3yHb2txL._AC_UL480_FMwebp_QL65_.jpg"
+      "image": "https://m.media-amazon.com/images/I/51M+UNL3+1L._AC_UY327_FMwebp_QL65_.jpg"
     },
     {
       "id": "29",
